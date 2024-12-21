@@ -49,4 +49,4 @@ For any inquiries, suggestions, or feedback, feel free to reach out:
 
 Below is a snapshot of the app interface:
 
-![AeroPulse Flight Radar Preview](https://raw.githubusercontent.com/turanserdar/AeroPulse-FlightRadar-Toolkit-Thunk/blob/main/flight_radar.gif)
+![AeroPulse Flight Radar Preview](https://raw.githubusercontent.com/turanserdar/AeroPulse-FlightRadar-Toolkit-Thunk/main/flight_radar.gif)
